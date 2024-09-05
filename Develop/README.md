@@ -1,10 +1,7 @@
-# README by htr
+# ReadMe generator by Hannah Schmidt, Student
   ![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)
   ## Description
-  - **Motivation:** hghg
-  - **Reason:** nbnb
-  - **Problem Solved:** nhk
-  - **Learning:** hgr
+  a project
 
   ## Table of Contents
   * [Installation](#installation)
@@ -12,30 +9,21 @@
   * [License](#license)
   * [contributors](#contributors)
   * [Tests](#tests)
-  
-  ## License
-  This project is licensed under the MIT license.
-  ![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)
-  [MIT License](https://opensource.org/licenses/MIT)
-  
+  * [Questions](#questions)
 
   ## Installation
-  jyut
+  instructions
 
   ## Usage
-  htr
+  here is a screenshot and usage
 
-  ## License
-  MIT
 
   ## Contributing
-  htr GitHub -
-  hannahliz0 - Email - 
-  hannah@brightsfw.com
+  Hannah Schmidt, Student 
 
   ## Tests
-  htr
+  test instructions
 
   ## Questions
-  If you have any questions, please contact me at hannah@brightsfw.com or visit my GitHub profile at https://github.com/Hannahliz0
+  If you have any questions, please contact me at hnbright57@gmail.com, find me on GitHub at hannahliz0, or visit my GitHub profile at https://github.com/Hannahliz0
   

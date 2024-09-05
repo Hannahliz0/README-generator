@@ -15,23 +15,8 @@ const questions = [
     },
     {
         type: "input",
-        name: "motivation",
-        message: "What was you motivation?"
-    },
-    {
-        type: "input",
-        name: "reason",
-        message:"Why did you build this project?"
-    },
-    {
-        type: "input",
-        name: "problem",
-        message:"What problem does it solve?"
-    },
-    {
-        type: "input",
-        name: "learning",
-        message:"What did you learn?",
+        name: "description",
+        message: "Describe your project?"
     },
     {
         type: "input",
@@ -39,7 +24,7 @@ const questions = [
         message: "Please provide installation instructions.",
     },
     {
-        type: "input",
+        type: "insert",
         name: "usage",
         message: "Please provide usage instructions. Include screenshots if needed.",
     },
