@@ -14,9 +14,10 @@
   * [Questions](#questions)
 
   ## Installation
-  1. Clone the repository.
+  1. Clone the repository. - https://github.com/Hannahliz0/README-generator.git
   2. Navigate into the project directory.
   3. Install the necessary dependencies
+  
 
   ## Usage
   Run the generator using Node.js
